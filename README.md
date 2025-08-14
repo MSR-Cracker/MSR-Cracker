@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👨‍💻+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🚀+Innovation+Creator;✨+Digital+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👨‍💻+I'm+a+Noob+Developer;🔐+Cybersecurity+Enthusiast;🚀+Innovation+Creator;✨+Digital+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,14 +27,14 @@
 └──╼ $ cat /etc/developer.conf
 
 ╔══════════════════════════════════════════════════════════════════╗
-║                      🎯 SYSTEM SPECIFICATIONS                    ║
+║                      🎯 SYSTEM SPECIFICATIONS                                                ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  👤 Developer: MSR Cracker                                      ║
-║  📍 Location: Egypt 🇪🇬                                          ║
-║  🧠 Specialization: Full Stack + Security                       ║
-║  🎂 Active Since: 2007                                          ║
-║  ⚡ Status: Always Learning & Building                          ║
-║  🔥 Mission: Creating Digital Solutions That Matter             ║
+║  👤 Developer: MSR Cracker                                                                      ║
+║  📍 Location: Egypt 🇪🇬.                                                                          ║
+║  🧠 Specialization: Full Stack + Security                                                          ║
+║  🎂 Active Since: 2007                                                                           ║
+║  ⚡ Status: Always Learning & Building                                                           ║
+║  🔥 Mission: Creating Digital Solutions That Matter                                               ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 class MSRDeveloper {
