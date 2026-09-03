@@ -16,7 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # GitHub Stats
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -25,8 +24,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Top Languages
-      - name: Generate Languages
+      - name: Generate Top Languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
@@ -34,36 +32,6 @@ jobs:
           path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Streak
-      - name: Generate Streak
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: streak
-          options: username=MSR-Cracker&theme=tokyonight&hide_border=true
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # Trophies
-      - name: Generate Trophies
-        uses: DenverCoder1/github-readme-trophy@main
-        with:
-          username: MSR-Cracker
-          theme: tokyo-night
-          no-frame: true
-          no-bg: true
-          margin-w: 8
-          output: profile/trophies.svg
-
-      # Contribution Activity
-      - name: Generate Activity Graph
-        uses: jasineri/gitartwork@v1
-        with:
-          user_name: MSR-Cracker
-          user_email: 41898282+MSR-Cracker@users.noreply.github.com
-          repo_name: MSR-Cracker
-          file_name: profile/activity.svg
-
-      # Snake
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -71,8 +39,7 @@ jobs:
           outputs: |
             profile/github-contribution-grid-snake.svg
 
-      # Commit generated files
-      - name: Commit Changes
+      - name: Commit Generated Files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
