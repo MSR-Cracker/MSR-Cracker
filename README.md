@@ -7,16 +7,16 @@
 <br><br>
 
 <a href="https://github.com/MSR-Cracker">
-<img src="https://img.shields.io/badge/GitHub-MSR--Cracker-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-MSR--Cracker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://t.me/MSR_Cracker">
-<img src="https://img.shields.io/badge/Telegram-%40MSR__Cracker-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-%40MSR__Cracker-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MSR-Cracker&label=Profile%20Views&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=MSR-Cracker&label=Profile%20Views&style=flat-square" alt="Profile Views">
 
 </div>
 
@@ -82,12 +82,13 @@ and building tools that help me learn and improve.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,java&perline=6">
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,java&perline=6" alt="Tech Stack">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Vanilla%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Smali-Android%20Bytecode-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Vanilla%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JavaScript">
+
+<img src="https://img.shields.io/badge/Smali-Android%20Bytecode-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Smali">
 
 </div>
 
@@ -127,38 +128,8 @@ Development
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180">
-<img src="./profile/languages.svg" height="180">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="./profile/streak.svg">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="./profile/trophies.svg">
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="./profile/activity.svg">
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats">
+<img src="./profile/languages.svg" height="180" alt="Top Languages">
 
 </div>
 
@@ -168,7 +139,7 @@ Development
 
 <div align="center">
 
-<img src="./profile/github-contribution-grid-snake.svg">
+<img src="./profile/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
@@ -179,11 +150,11 @@ Development
 <div align="center">
 
 <a href="https://github.com/MSR-Cracker/Xhunter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MSR-Cracker&repo=Xhunter&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MSR-Cracker&repo=Xhunter&theme=tokyonight&hide_border=true" alt="Xhunter">
 </a>
 
 <a href="https://github.com/MSR-Cracker/GhostTrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MSR-Cracker&repo=GhostTrack&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MSR-Cracker&repo=GhostTrack&theme=tokyonight&hide_border=true" alt="GhostTrack">
 </a>
 
 </div>
@@ -195,11 +166,11 @@ Development
 <div align="center">
 
 <a href="https://github.com/MSR-Cracker">
-<img src="https://img.shields.io/badge/GitHub-MSR--Cracker-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-MSR--Cracker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://t.me/MSR_Cracker">
-<img src="https://img.shields.io/badge/Telegram-%40MSR__Cracker-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-%40MSR__Cracker-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
 </div>
@@ -209,7 +180,5 @@ Development
 <div align="center">
 
 ### `Understand the system. Find the weakness. Build the fix.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient">
 
 </div>
